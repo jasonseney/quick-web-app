@@ -6,6 +6,7 @@ Quick Web App is a tiny bootstrap project for the following:
 - Sinatra
 - Rake
 - Sass
+- Yahoo Reset Files
 
 ### Startup Locally
 
